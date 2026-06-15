@@ -15,5 +15,22 @@
         "baseUrl": "https://www.kaixinman.com"
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: H-Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.hcomic",
+    "apk": "tachiyomi-zh.hcomic-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "H-Comic",
+        "lang": "zh",
+        "id": "3268618009218228077",
+        "baseUrl": "https://h-comic.com"
+      }
+    ]
   }
 ]
